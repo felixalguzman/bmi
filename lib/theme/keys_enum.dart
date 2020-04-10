@@ -1,0 +1,1 @@
+enum Keys { LIGHT, DARK }
